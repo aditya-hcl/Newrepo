@@ -1,6 +1,6 @@
 class Solution {
 public static void main (string [] args) {
-System.out.println("Aditya Mishra");
+System.out.println("Aditya M");
 }
 
 }
